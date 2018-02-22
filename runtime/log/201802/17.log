@@ -1,0 +1,165 @@
+---------------------------------------------------------------
+[ 2018-02-17T19:49:15+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:49:30+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:52:41+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:52:46+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:54:28+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:55:08+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:55:10+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:55:11+08:00 ] 0.0.0.0 GET /admin/admin/add.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/add.html
+---------------------------------------------------------------
+[ 2018-02-17T19:58:18+08:00 ] 0.0.0.0 GET /admin/admin/index.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/admin/index.html
+---------------------------------------------------------------
+[ 2018-02-17T20:31:09+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002360s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+---------------------------------------------------------------
+[ 2018-02-17T20:31:16+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000778s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+---------------------------------------------------------------
+[ 2018-02-17T20:33:55+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000936s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.009619s ]
+[ sql ] [ SQL ] INSERT INTO `ent_admin_user` (`username` , `password` , `status`) VALUES ('admin' , '3f5aaf42924d6c634ffbdb6b311fa0cb' , 1) [ RunTime:0.011083s ]
+---------------------------------------------------------------
+[ 2018-02-17T20:34:02+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000846s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003480s ]
+[ sql ] [ SQL ] INSERT INTO `ent_admin_user` (`username` , `password` , `status`) VALUES ('admin' , '3f5aaf42924d6c634ffbdb6b311fa0cb' , 1) [ RunTime:0.000692s ]
+---------------------------------------------------------------
+[ 2018-02-17T20:39:10+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000846s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003743s ]
+[ sql ] [ SQL ] INSERT INTO `ent_admin_user` (`username` , `password` , `status`) VALUES ('admin' , '3f5aaf42924d6c634ffbdb6b311fa0cb' , 1) [ RunTime:0.001088s ]
+---------------------------------------------------------------
+[ 2018-02-17T20:39:58+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000880s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003899s ]
+[ sql ] [ SQL ] INSERT INTO `ent_admin_user` (`username` , `password` , `status`) VALUES ('admin' , '3f5aaf42924d6c634ffbdb6b311fa0cb' , 1) [ RunTime:0.000746s ]
+---------------------------------------------------------------
+[ 2018-02-17T20:40:17+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000997s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003225s ]
+[ sql ] [ SQL ] INSERT INTO `ent_admin_user` (`username` , `password` , `status`) VALUES ('admin' , '3f5aaf42924d6c634ffbdb6b311fa0cb' , 1) [ RunTime:0.000883s ]
+---------------------------------------------------------------
+[ 2018-02-17T20:42:43+08:00 ] 0.0.0.0 POST /admin/admin/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000789s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003658s ]
+[ sql ] [ SQL ] INSERT INTO `ent_admin_user` (`username` , `password` , `status` , `create_time` , `update_time`) VALUES ('admin12' , '3f5aaf42924d6c634ffbdb6b311fa0cb' , 1 , 1518871363 , 1518871363) [ RunTime:0.001091s ]
+---------------------------------------------------------------
+[ 2018-02-17T21:57:29+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000821s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003233s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000562s ]
+---------------------------------------------------------------
+[ 2018-02-17T21:59:10+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000987s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003405s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin1234' LIMIT 1 [ RunTime:0.000502s ]
+---------------------------------------------------------------
+[ 2018-02-17T21:59:29+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000850s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003777s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000503s ]
+---------------------------------------------------------------
+[ 2018-02-17T21:59:38+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000883s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003946s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000507s ]
+---------------------------------------------------------------
+[ 2018-02-17T22:06:54+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000731s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003967s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000513s ]
+[ error ] [8192]Non-static method app\common\lib\IAuth::setPassword() should not be called statically
+---------------------------------------------------------------
+[ 2018-02-17T22:07:13+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000936s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003265s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000532s ]
+[ error ] [8192]Non-static method app\common\lib\IAuth::setPassword() should not be called statically
+---------------------------------------------------------------
+[ 2018-02-17T22:08:40+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000729s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.004802s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000505s ]
+---------------------------------------------------------------
+[ 2018-02-17T22:10:11+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001574s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003894s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000572s ]
+[ error ] [8192]Non-static method app\common\lib\IAuth::setPassword() should not be called statically
+---------------------------------------------------------------
+[ 2018-02-17T22:10:48+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000950s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003668s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000515s ]
+[ error ] [8192]Non-static method app\common\lib\IAuth::setPassword() should not be called statically
+---------------------------------------------------------------
+[ 2018-02-17T22:12:36+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000916s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.004344s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000534s ]
+[ error ] [8192]Non-static method app\common\lib\IAuth::setPassword() should not be called statically
+---------------------------------------------------------------
+[ 2018-02-17T22:14:37+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001290s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.002460s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000560s ]
+---------------------------------------------------------------
+[ 2018-02-17T22:31:23+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000806s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003285s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000702s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1518877883,`last_login_ip`='0.0.0.0',`update_time`=1518877883  WHERE  `id` = 1 [ RunTime:0.003625s ]
+---------------------------------------------------------------
+[ 2018-02-17T22:40:30+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001597s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.002622s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000507s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1518878430,`last_login_ip`='0.0.0.0',`update_time`=1518878430  WHERE  `id` = 1 [ RunTime:0.007535s ]
+---------------------------------------------------------------
+[ 2018-02-17T22:41:19+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000791s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003863s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000541s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1518878479,`last_login_ip`='0.0.0.0',`update_time`=1518878479  WHERE  `id` = 1 [ RunTime:0.000934s ]
+---------------------------------------------------------------
+[ 2018-02-17T22:43:14+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000736s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.004083s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000505s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1518878594,`last_login_ip`='0.0.0.0',`update_time`=1518878594  WHERE  `id` = 1 [ RunTime:0.001037s ]
+---------------------------------------------------------------
+[ 2018-02-17T22:51:55+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000859s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003909s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000510s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1518879115,`last_login_ip`='0.0.0.0',`update_time`=1518879115  WHERE  `id` = 1 [ RunTime:0.000964s ]
+---------------------------------------------------------------
+[ 2018-02-17T23:13:58+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000828s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.002853s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000648s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1518880438,`last_login_ip`='0.0.0.0',`update_time`=1518880438  WHERE  `id` = 1 [ RunTime:0.001421s ]
+---------------------------------------------------------------
+[ 2018-02-17T23:17:45+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000832s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.002856s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000515s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1518880665,`last_login_ip`='0.0.0.0',`update_time`=1518880665  WHERE  `id` = 1 [ RunTime:0.002486s ]

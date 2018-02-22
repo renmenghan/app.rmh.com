@@ -1,0 +1,4885 @@
+---------------------------------------------------------------
+[ 2018-02-20T11:54:50+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.041445s][吞吐率：24.13req/s] [内存消耗：2,175.82kb] [文件加载：52]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '6271cf60-c23b-458d-8183-5108a4b8e872',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: data[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:25]
+---------------------------------------------------------------
+[ 2018-02-20T11:55:15+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.052026s][吞吐率：19.22req/s] [内存消耗：2,175.82kb] [文件加载：52]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '36b43db1-00b3-416b-87f9-4e9d84f2f1a3',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: data[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:25]
+---------------------------------------------------------------
+[ 2018-02-20T11:55:39+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.042432s][吞吐率：23.57req/s] [内存消耗：2,175.82kb] [文件加载：52]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '6ef80ebf-8844-48e0-ae17-160cf5b036f0',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: data[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:25]
+---------------------------------------------------------------
+[ 2018-02-20T11:57:02+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.032886s][吞吐率：30.41req/s] [内存消耗：2,182.73kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b1339446-b9c2-4d8e-b8c5-fa75eb5d81a4',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: data[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:25]
+---------------------------------------------------------------
+[ 2018-02-20T11:57:25+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.032663s][吞吐率：30.62req/s] [内存消耗：2,175.82kb] [文件加载：52]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '77d62e35-568b-4d96-a14d-babfc5f79d96',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: data[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:25]
+---------------------------------------------------------------
+[ 2018-02-20T11:58:37+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.052828s][吞吐率：18.93req/s] [内存消耗：2,175.82kb] [文件加载：52]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'ee9fe4b4-34f0-40fa-87da-c9b0c5bca2c4',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: data[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:25]
+---------------------------------------------------------------
+[ 2018-02-20T12:01:01+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.038442s][吞吐率：26.01req/s] [内存消耗：2,195.59kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c54b2996-d528-4021-8276-0ba008c78076',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: data[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:25]
+---------------------------------------------------------------
+[ 2018-02-20T12:13:12+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.028005s][吞吐率：35.71req/s] [内存消耗：1,892.77kb] [文件加载：49]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'd878af77-0e68-4444-967b-b99fd428016b',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T12:13:33+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.039267s][吞吐率：25.47req/s] [内存消耗：1,892.77kb] [文件加载：49]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '4da859a1-e489-4ff9-ad64-3c891b73f58c',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T12:13:34+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.030573s][吞吐率：32.71req/s] [内存消耗：1,892.77kb] [文件加载：49]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '7e912bf5-60d5-421f-a0ce-1b3c92ed346e',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T12:13:56+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.056350s][吞吐率：17.75req/s] [内存消耗：2,210.76kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '0c262a09-012d-4de1-b547-96128d7c2364',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\api\controller\ApiException' not found[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T12:14:21+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.030733s][吞吐率：32.54req/s] [内存消耗：2,210.76kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => '2209e7ac-19a4-423f-87f5-79b646716692',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\api\controller\ApiException' not found[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T12:14:45+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.052799s][吞吐率：18.94req/s] [内存消耗：2,193.81kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'a531abe9-dc42-43b7-b310-cbc584020601',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T12:16:54+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.045091s][吞吐率：22.18req/s] [内存消耗：2,194.33kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b606ea3f-5847-47c8-a087-81747305392b',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T14:17:09+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.085007s][吞吐率：11.76req/s] [内存消耗：2,167.64kb] [文件加载：51]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'd1a17024-b531-46c2-bbc3-6a050e0718b8',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T14:31:52+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.053152s][吞吐率：18.81req/s] [内存消耗：2,034.56kb] [文件加载：48]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '9daa8e30-1b44-4c0b-83d0-60943081885f',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T14:33:55+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.042903s][吞吐率：23.31req/s] [内存消耗：2,210.74kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '390878ae-0f8f-479e-a6bb-d2460794ef30',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:38:01+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.048447s][吞吐率：20.64req/s] [内存消耗：2,210.78kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '4df94f1b-8682-4ade-91b5-fb93d3192c26',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:38:43+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.050717s][吞吐率：19.72req/s] [内存消耗：2,210.66kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '5ffbe993-b13d-4773-aea3-70a9dee0d44d',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:41:56+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.053160s][吞吐率：18.81req/s] [内存消耗：2,210.84kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '0d051a08-960a-4395-adae-1856452b03b9',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:42:06+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.038781s][吞吐率：25.79req/s] [内存消耗：2,210.84kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'cef09c57-a045-47a4-9d2c-d78030b910b8',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:42:55+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.055251s][吞吐率：18.10req/s] [内存消耗：2,034.56kb] [文件加载：48]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'a3aa7e9c-3c72-429b-b708-e54dc10be497',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T14:43:21+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.037624s][吞吐率：26.58req/s] [内存消耗：2,210.94kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '30fe2483-1f67-4212-bbcf-3a8503a74e85',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:43:42+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.041125s][吞吐率：24.32req/s] [内存消耗：2,034.56kb] [文件加载：48]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '12825094-0d2b-44e5-8d35-e95dd2e5c1ef',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T14:44:09+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.038407s][吞吐率：26.04req/s] [内存消耗：2,210.79kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'e9c71ef7-98d0-4905-bd07-204f8dab24f0',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:52:49+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.047144s][吞吐率：21.21req/s] [内存消耗：2,039.84kb] [文件加载：49]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'a3d484ec-a1fb-42a8-92a6-a76a2f776d8a',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T14:55:04+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.056832s][吞吐率：17.60req/s] [内存消耗：2,211.39kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'ca72bc9f-8317-4586-858c-9d7e6ea9e7ed',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T14:56:12+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.032913s][吞吐率：30.38req/s] [内存消耗：2,039.82kb] [文件加载：49]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '44bc8b96-9f52-4ef1-8f69-a0bdb3569024',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T14:57:01+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.037188s][吞吐率：26.89req/s] [内存消耗：2,211.39kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'be107f4c-63c0-4e97-a705-bb75449300cf',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]mcrypt_decrypt(): Key of size 15 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:63]
+---------------------------------------------------------------
+[ 2018-02-20T15:00:08+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.059539s][吞吐率：16.80req/s] [内存消耗：2,036.41kb] [文件加载：48]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3338a3c8-a87f-4ab6-a203-807cbf28a7c4',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:02:58+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.059508s][吞吐率：16.80req/s] [内存消耗：1,571.65kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '1013f4c6-2564-41c8-bccb-e6f4715e35c6',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8192]Function mcrypt_get_block_size() is deprecated[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:31]
+---------------------------------------------------------------
+[ 2018-02-20T15:05:45+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.051880s][吞吐率：19.28req/s] [内存消耗：1,571.66kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'fef7f1fe-5aaa-4c70-8009-6118f4e87c84',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8192]Function mcrypt_get_block_size() is deprecated[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/Aes.php:31]
+---------------------------------------------------------------
+[ 2018-02-20T15:06:50+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.039127s][吞吐率：25.56req/s] [内存消耗：2,039.45kb] [文件加载：49]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '9700a594-58ff-4ff2-8678-d40f6e80395d',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:07:25+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.032173s][吞吐率：31.08req/s] [内存消耗：2,035.13kb] [文件加载：48]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => '12ddd0ff-a33e-409b-af58-b964d178834b',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:10:59+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.055942s][吞吐率：17.88req/s] [内存消耗：2,194.68kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'cache-control' => 'no-cache',
+  'postman-token' => '437979e5-d898-4cc6-b3f4-47e2cce80b19',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]sign不存在[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:39]
+---------------------------------------------------------------
+[ 2018-02-20T15:14:56+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.059802s][吞吐率：16.72req/s] [内存消耗：2,199.33kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'e84a24b4-cc9e-4885-a0a8-ef3bbcf70daf',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: app_type[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:42]
+---------------------------------------------------------------
+[ 2018-02-20T15:15:05+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.055739s][吞吐率：17.94req/s] [内存消耗：2,197.77kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'app_type' => 'ddd',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'a0f75d1c-0aa1-4405-b158-007ce47df345',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T15:15:24+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.038381s][吞吐率：26.05req/s] [内存消耗：2,197.77kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'app_type' => 'ddd',
+  'cache-control' => 'no-cache',
+  'postman-token' => '9a72e2b9-92c6-4180-8b2c-4cf7fbb3c4b6',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T15:15:25+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.058138s][吞吐率：17.20req/s] [内存消耗：2,197.68kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'app_type' => 'ddd',
+  'cache-control' => 'no-cache',
+  'postman-token' => '50ffa224-ce4a-4195-a845-8d79e1f4bc2b',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T15:15:58+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.047930s][吞吐率：20.86req/s] [内存消耗：2,197.13kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'app_type' => 'ddd',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'cd0ddf8b-f011-4381-ba86-d5f2ed7f4bfa',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]app_type不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:43]
+---------------------------------------------------------------
+[ 2018-02-20T15:22:02+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.054358s][吞吐率：18.40req/s] [内存消耗：2,197.27kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'app_type' => 'ddd',
+  'cache-control' => 'no-cache',
+  'postman-token' => '97d48750-89a3-4c9a-b92f-a2dcba2f4bc9',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]app_type不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:44]
+---------------------------------------------------------------
+[ 2018-02-20T15:22:08+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.057736s][吞吐率：17.32req/s] [内存消耗：2,218.96kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'app_type' => 'ios',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'e88fbb47-efe0-42cb-9af1-a6fedb7e3b1a',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T15:22:20+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.043832s][吞吐率：22.81req/s] [内存消耗：2,218.96kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'sign' => 'dssddsds',
+  'app_type' => 'ios',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'ee4754a5-5744-4537-9a98-d04a1414e390',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T15:22:32+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.034909s][吞吐率：28.65req/s] [内存消耗：2,197.15kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'io',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'ceed6a65-d12b-4ad9-8e53-c1ebacedd4a7',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]sign不存在[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:40]
+---------------------------------------------------------------
+[ 2018-02-20T15:22:38+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.042155s][吞吐率：23.72req/s] [内存消耗：2,197.10kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'io',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c3899fb6-dd8d-448e-887e-9695fe6ec087',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]app_type不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:44]
+---------------------------------------------------------------
+[ 2018-02-20T15:22:42+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.042654s][吞吐率：23.44req/s] [内存消耗：2,193.41kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '5fd3cb16-8347-43de-8e53-1d5a4fbdcf5c',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:23:24+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.057901s][吞吐率：17.27req/s] [内存消耗：2,219.04kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'dddddd',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c4128d6f-b6fa-4680-be0d-36466ee61982',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]数据不合法[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php:27]
+---------------------------------------------------------------
+[ 2018-02-20T15:24:40+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.094123s][吞吐率：10.62req/s] [内存消耗：2,232.88kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '1c3dda1c-894b-469c-9860-f21ab8374eb6',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected '}'[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/IAuth.php:50]
+---------------------------------------------------------------
+[ 2018-02-20T15:24:48+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.068555s][吞吐率：14.59req/s] [内存消耗：2,194.02kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '07ab5379-144d-41ae-ab09-342bb56d6939',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:29:03+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.043982s][吞吐率：22.74req/s] [内存消耗：2,196.27kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3bf5a428-10a4-425b-b9c8-e45d81bfda63',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:30:31+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.037917s][吞吐率：26.37req/s] [内存消耗：2,195.18kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '0d231a45-75ef-4147-b4b6-58d0bb74cc66',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:30:38+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.068779s][吞吐率：14.54req/s] [内存消耗：2,220.01kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => '1Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '2a3d4f7c-1a8a-43be-9064-401b656755d7',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:54]
+---------------------------------------------------------------
+[ 2018-02-20T15:40:52+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.051109s][吞吐率：19.57req/s] [内存消耗：2,195.76kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c1a566ac-c8a4-4513-8ec8-c2e0bc883529',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:41:44+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.039458s][吞吐率：25.34req/s] [内存消耗：2,160.18kb] [文件加载：52]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '06b39c22-276b-4382-b21f-726f300d3d28',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:42:20+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.047321s][吞吐率：21.13req/s] [内存消耗：2,198.29kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3a00717a-8ff2-4f0f-ae2b-116aa9f8d972',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:44:22+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.040523s][吞吐率：24.68req/s] [内存消耗：2,198.93kb] [文件加载：54]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c1bce7d2-7ad8-42dd-9a4f-62f339aae5d5',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:46:55+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.048924s][吞吐率：20.44req/s] [内存消耗：2,223.86kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '5273e17c-e621-4f6c-9e7f-eec1ef2653e3',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: time[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/IAuth.php:53]
+---------------------------------------------------------------
+[ 2018-02-20T15:47:32+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.033864s][吞吐率：29.53req/s] [内存消耗：2,223.86kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '312ec925-a9b3-4c05-976f-2f4b19a12aa4',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: time[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/IAuth.php:53]
+---------------------------------------------------------------
+[ 2018-02-20T15:50:02+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.053287s][吞吐率：18.77req/s] [内存消耗：2,224.23kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '194d6bbe-24ef-44dd-8518-39296a58b5af',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: time[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common/lib/IAuth.php:53]
+---------------------------------------------------------------
+[ 2018-02-20T15:50:16+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.058718s][吞吐率：17.03req/s] [内存消耗：2,051.67kb] [文件加载：50]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'Kn34rS6kLWTGksWZkXKdafi4WUtV8opfTrcMvSO/jeE=',
+  'cache-control' => 'no-cache',
+  'postman-token' => '07c90223-1b6d-437e-8480-c6ef68034cd8',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:50:48+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.059871s][吞吐率：16.70req/s] [内存消耗：2,222.09kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'e572cbc3-a2ba-47f4-8350-b7c331ac3ade',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:56]
+---------------------------------------------------------------
+[ 2018-02-20T15:51:08+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.040474s][吞吐率：24.71req/s] [内存消耗：2,222.23kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'a40fab49-7014-4a80-8dc1-929fcecf2e13',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:56]
+---------------------------------------------------------------
+[ 2018-02-20T15:51:30+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.044969s][吞吐率：22.24req/s] [内存消耗：2,222.01kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '4d49a886-12ef-4dcc-8298-621d24089655',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:56]
+---------------------------------------------------------------
+[ 2018-02-20T15:52:00+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.034241s][吞吐率：29.20req/s] [内存消耗：2,222.01kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '27a7e19e-4471-4916-9d8d-3fd2b7089e70',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:56]
+---------------------------------------------------------------
+[ 2018-02-20T15:52:27+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.048266s][吞吐率：20.72req/s] [内存消耗：2,162.08kb] [文件加载：52]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '751ffac9-26b8-4c0f-8e2c-544f113f1380',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T15:53:03+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.073125s][吞吐率：13.68req/s] [内存消耗：2,222.01kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'ba8da324-8866-48cb-9749-7855a95d1dab',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:56]
+---------------------------------------------------------------
+[ 2018-02-20T15:58:56+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.068910s][吞吐率：14.51req/s] [内存消耗：2,279.46kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'cd8b9f20-e249-423f-88dd-7afb4c936c64',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:00:36+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.039699s][吞吐率：25.19req/s] [内存消耗：2,279.51kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c2f78fc3-8890-4640-bb0a-fa9b50e3aca5',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:02:21+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.047586s][吞吐率：21.01req/s] [内存消耗：2,279.51kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '1d9825ae-b272-4d2e-8cbe-20ee137fda02',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\test->save[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:02:22+08:00 ] 127.0.0.1 POST /test/
+[ info ] app.rmh.com:8888/test/ [运行时间：0.039859s][吞吐率：25.09req/s] [内存消耗：2,338.95kb] [文件加载：59]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'test',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '33b28bbe-9307-49fa-b788-67e8441951bf',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:57]
+---------------------------------------------------------------
+[ 2018-02-20T16:37:18+08:00 ] 127.0.0.1 POST /cat/
+[ info ] app.rmh.com:8888/cat/ [运行时间：0.057737s][吞吐率：17.32req/s] [内存消耗：1,802.33kb] [文件加载：44]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '9d7d9dcf-499f-4611-b6e0-cf86889397a5',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:38:00+08:00 ] 127.0.0.1 POST /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.066661s][吞吐率：15.00req/s] [内存消耗：2,222.34kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c82a1bf1-a186-406c-9fc3-5bc789db0505',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]授权码sign失败[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Common.php:57]
+---------------------------------------------------------------
+[ 2018-02-20T16:39:02+08:00 ] 127.0.0.1 POST /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.049619s][吞吐率：20.15req/s] [内存消耗：2,330.08kb] [文件加载：58]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '7442a2bb-25c6-4545-a4d0-5cd5fdac9636',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '22',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  0 => '232',
+  'name' => 'hh',
+  'age' => '12',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:39:46+08:00 ] 127.0.0.1 GET /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.044805s][吞吐率：22.32req/s] [内存消耗：2,314.99kb] [文件加载：56]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'e58e0f26-f274-4b93-b38b-7ee1c329fe74',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\Cat->read[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Cat.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:42:28+08:00 ] 127.0.0.1 GET /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.041772s][吞吐率：23.94req/s] [内存消耗：2,280.16kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'a1ef916d-bf45-4aa6-96f0-9e88ea2afd7b',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\Cat->read[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Cat.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:43:00+08:00 ] 127.0.0.1 GET /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.074815s][吞吐率：13.37req/s] [内存消耗：2,280.33kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '35f569e1-573f-4f2f-a16f-1a5c8596fc7b',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\Cat->read[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Cat.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T16:44:23+08:00 ] 127.0.0.1 GET /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.050347s][吞吐率：19.86req/s] [内存消耗：2,280.82kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'da2e18b5-4761-4a6c-b209-a7b68614c23f',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\Cat->read[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Cat.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T18:21:16+08:00 ] 127.0.0.1 GET /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.055610s][吞吐率：17.98req/s] [内存消耗：1,813.05kb] [文件加载：46]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3391ff76-bf5f-4b79-975a-0f52acb7cb5c',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T18:21:36+08:00 ] 127.0.0.1 GET /api/cat/
+[ info ] app.rmh.com:8888/api/cat/ [运行时间：0.051294s][吞吐率：19.50req/s] [内存消耗：2,280.81kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'cache-control' => 'no-cache',
+  'postman-token' => '35a518bf-e87d-46d6-90ef-9b256a9bd6fa',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\Cat->read[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/Cat.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T19:37:42+08:00 ] 127.0.0.1 GET /api/v1/cat/
+[ info ] app.rmh.com:8888/api/v1/cat/ [运行时间：0.059580s][吞吐率：16.78req/s] [内存消耗：1,812.63kb] [文件加载：46]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1',
+    2 => 'cat',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '443172f0-1ca9-421f-bd84-e3b6323351de',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T19:39:09+08:00 ] 127.0.0.1 GET /api/v1/cat/
+[ info ] app.rmh.com:8888/api/v1/cat/ [运行时间：0.046537s][吞吐率：21.49req/s] [内存消耗：1,815.85kb] [文件加载：46]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'f399f749-6d16-4b34-9d5d-01fa73259e41',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T19:39:48+08:00 ] 127.0.0.1 GET /api/v1/cat/
+[ info ] app.rmh.com:8888/api/v1/cat/ [运行时间：0.048371s][吞吐率：20.67req/s] [内存消耗：1,835.73kb] [文件加载：47]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b318b772-ff53-4af7-9328-3061f20b8293',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\api\controller\v1\Common' not found[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Cat.php:11]
+---------------------------------------------------------------
+[ 2018-02-20T19:40:37+08:00 ] 127.0.0.1 GET /api/v1/cat/
+[ info ] app.rmh.com:8888/api/v1/cat/ [运行时间：0.057578s][吞吐率：17.37req/s] [内存消耗：2,283.63kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.cat',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '48ddb1e8-03fd-4650-b4f6-0ff86dc755ff',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Cat->read[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Cat.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T19:42:53+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.058175s][吞吐率：17.19req/s] [内存消耗：1,812.87kb] [文件加载：46]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b4483251-b219-4e32-b63f-a616ac303d2a',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T19:43:26+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.161542s][吞吐率：6.19req/s] [内存消耗：3,782.65kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '582b04e5-d34f-4e11-be40-45769dfb42f7',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002760s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.033899s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` = 1  AND `is_head_figure` = 1 ORDER BY `id`  desc [ RunTime:0.003337s ]
+---------------------------------------------------------------
+[ 2018-02-20T19:45:28+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.086765s][吞吐率：11.53req/s] [内存消耗：3,776.60kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'db8629d4-34f8-497b-9959-1a3239e1ac82',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000589s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003621s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_head_figure` = 1 ORDER BY `id`  desc LIMIT 4 [ RunTime:0.000744s ]
+---------------------------------------------------------------
+[ 2018-02-20T19:47:47+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.068934s][吞吐率：14.51req/s] [内存消耗：3,777.78kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '08a275ea-d1e0-4f99-b2bb-58f3fa397e3f',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000487s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003894s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_position` = 1 ORDER BY `id`  desc LIMIT 40 [ RunTime:0.000600s ]
+---------------------------------------------------------------
+[ 2018-02-20T19:48:18+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.115267s][吞吐率：8.68req/s] [内存消耗：3,779.53kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'dad6bbb9-ade8-4f89-bf99-a5181284cb12',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000477s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002991s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_position` = 1 ORDER BY `id`  desc LIMIT 40 [ RunTime:0.000692s ]
+---------------------------------------------------------------
+[ 2018-02-20T19:49:42+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.069037s][吞吐率：14.48req/s] [内存消耗：3,780.29kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'acb0f363-4f05-415e-9542-7e400438b2e6',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000775s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003702s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_position` = 1 ORDER BY `id`  desc LIMIT 40 [ RunTime:0.000559s ]
+---------------------------------------------------------------
+[ 2018-02-20T19:59:14+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.174848s][吞吐率：5.72req/s] [内存消耗：3,785.91kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '50a7b994-0c2b-45b9-9be8-faa50ef1b778',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000657s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005409s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_head_figure` = 1 ORDER BY `id`  desc LIMIT 4 [ RunTime:0.000701s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_position` = 1 ORDER BY `id`  desc LIMIT 40 [ RunTime:0.001390s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:17:08+08:00 ] 127.0.0.1 GET /api/v1/index?catid1
+[ info ] app.rmh.com:8888/api/v1/index?catid1 [运行时间：0.116597s][吞吐率：8.58req/s] [内存消耗：3,807.02kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '0659470c-01db-4131-b8a5-495ea5b6fb9c',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'catid1' => '',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002325s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004560s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_head_figure` = 1 ORDER BY `id`  desc LIMIT 4 [ RunTime:0.000747s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count` FROM `ent_news` WHERE  `status` = 1  AND `is_position` = 1 ORDER BY `id`  desc LIMIT 40 [ RunTime:0.000527s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:17:34+08:00 ] 127.0.0.1 GET /api/v1/news?catid=1
+[ info ] app.rmh.com:8888/api/v1/news?catid=1 [运行时间：0.101064s][吞吐率：9.89req/s] [内存消耗：3,787.05kb] [文件加载：64]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b938e790-5a2b-44c7-ab27-6e6ab33d8128',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'catid' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000440s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002687s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 LIMIT 1 [ RunTime:0.002281s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:22:47+08:00 ] 127.0.0.1 GET /api/v1/news?catid=1
+[ info ] app.rmh.com:8888/api/v1/news?catid=1 [运行时间：0.126071s][吞吐率：7.93req/s] [内存消耗：3,821.18kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '2ad8c896-da7b-41f9-acb7-e827367815d3',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'catid' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002647s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005267s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 LIMIT 1 [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000658s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:29:41+08:00 ] 0.0.0.0 GET /admin/index
+[ info ] app.rmh.com:8888/admin/index [运行时间：0.063375s][吞吐率：15.78req/s] [内存消耗：2,273.98kb] [文件加载：51]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:29:41+08:00 ] 0.0.0.0 GET /admin/login/index.html
+[ info ] app.rmh.com:8888/admin/login/index.html [运行时间：0.049758s][吞吐率：20.10req/s] [内存消耗：2,261.70kb] [文件加载：50]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:29:42+08:00 ] 0.0.0.0 GET /captcha
+[ info ] app.rmh.com:8888/captcha [运行时间：0.253255s][吞吐率：3.95req/s] [内存消耗：1,843.57kb] [文件加载：42]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/login/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:29:50+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ info ] app.rmh.com:8888/admin/login/check.html [运行时间：0.120543s][吞吐率：8.30req/s] [内存消耗：3,955.53kb] [文件加载：66]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'check',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '40',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://app.rmh.com:8888',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/login/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => 'admin',
+  'code' => 'qj5wx',
+)
+[ info ] [ RUN ] app\admin\controller\Login->check[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000388s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.003229s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.001556s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1519129790,`last_login_ip`='0.0.0.0',`update_time`=1519129790  WHERE  `id` = 1 [ RunTime:0.003031s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:29:53+08:00 ] 0.0.0.0 GET /admin/index/index.html
+[ info ] app.rmh.com:8888/admin/index/index.html [运行时间：0.037206s][吞吐率：26.88req/s] [内存消耗：2,733.09kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/login/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:29:53+08:00 ] 0.0.0.0 GET /admin/index/lib/jquery.contextmenu/jquery.contextmenu.r2.js
+[ info ] app.rmh.com:8888/admin/index/lib/jquery.contextmenu/jquery.contextmenu.r2.js [运行时间：0.128736s][吞吐率：7.77req/s] [内存消耗：2,711.66kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'lib',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+  'contextmenu' => 'jquery.contextmenu.r2.js',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:29:53+08:00 ] 0.0.0.0 GET /admin/index/welcome.html
+[ info ] app.rmh.com:8888/admin/index/welcome.html [运行时间：0.108355s][吞吐率：9.23req/s] [内存消耗：2,647.07kb] [文件加载：51]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:29:55+08:00 ] 0.0.0.0 GET /admin/news/add.html
+[ info ] app.rmh.com:8888/admin/news/add.html [运行时间：0.048510s][吞吐率：20.61req/s] [内存消耗：2,754.73kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->add[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/News.php ]
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/add.html [ array (
+  0 => 'cats',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:29:56+08:00 ] 0.0.0.0 GET /admin/news/
+[ info ] app.rmh.com:8888/admin/news/ [运行时间：0.091283s][吞吐率：10.95req/s] [内存消耗：3,881.47kb] [文件加载：64]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'x-requested-with' => 'ShockwaveFlash/28.0.0.161',
+  'accept' => '*/*',
+  'referer' => 'http://app.rmh.com:8888/admin/news/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000518s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002616s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000420s ]
+[ error ] [0]类的属性不存在:app\common\model\News->status[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/library/think/Model.php:600]
+---------------------------------------------------------------
+[ 2018-02-20T20:29:56+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ info ] app.rmh.com:8888/admin/news/index.html [运行时间：0.070437s][吞吐率：14.20req/s] [内存消耗：3,881.91kb] [文件加载：64]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000334s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004727s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000558s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000415s ]
+[ error ] [0]类的属性不存在:app\common\model\News->status[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/library/think/Model.php:600]
+---------------------------------------------------------------
+[ 2018-02-20T20:30:19+08:00 ] 0.0.0.0 GET /admin/index/index.html
+[ info ] app.rmh.com:8888/admin/index/index.html [运行时间：0.040135s][吞吐率：24.92req/s] [内存消耗：2,733.02kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/login/check.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:30:19+08:00 ] 0.0.0.0 GET /admin/index/lib/jquery.contextmenu/jquery.contextmenu.r2.js
+[ info ] app.rmh.com:8888/admin/index/lib/jquery.contextmenu/jquery.contextmenu.r2.js [运行时间：0.078644s][吞吐率：12.72req/s] [内存消耗：2,711.48kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'lib',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+  'contextmenu' => 'jquery.contextmenu.r2.js',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:30:19+08:00 ] 0.0.0.0 GET /admin/index/welcome.html
+[ info ] app.rmh.com:8888/admin/index/welcome.html [运行时间：0.073731s][吞吐率：13.56req/s] [内存消耗：2,647.29kb] [文件加载：51]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T20:30:21+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ info ] app.rmh.com:8888/admin/news/index.html [运行时间：0.067001s][吞吐率：14.93req/s] [内存消耗：3,826.95kb] [文件加载：61]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000377s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003769s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000512s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000485s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:30:35+08:00 ] 0.0.0.0 POST /admin/news/status/id/8/status/1.html
+[ info ] app.rmh.com:8888/admin/news/status/id/8/status/1.html [运行时间：0.089400s][吞吐率：11.19req/s] [内存消耗：3,871.66kb] [文件加载：64]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'status',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'origin' => 'http://app.rmh.com:8888',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'referer' => 'http://app.rmh.com:8888/admin/news/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+  'id' => '8',
+  'status' => '1',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Base->status[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Base.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000533s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003732s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=1,`update_time`=1519129835  WHERE  `id` = 8 [ RunTime:0.000959s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:30:35+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ info ] app.rmh.com:8888/admin/news/index.html [运行时间：0.053723s][吞吐率：18.61req/s] [内存消耗：3,826.95kb] [文件加载：61]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/news/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000327s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003975s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000666s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000691s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:30:43+08:00 ] 127.0.0.1 GET /api/v1/news
+[ info ] app.rmh.com:8888/api/v1/news [运行时间：0.056813s][吞吐率：17.60req/s] [内存消耗：3,814.28kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'f8aa2e96-2dee-4522-8337-7ce89d182702',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000338s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002659s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` IS NULL LIMIT 1 [ RunTime:0.001606s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` IS NULL ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000471s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:31:14+08:00 ] 127.0.0.1 GET /api/v1/index
+[ info ] app.rmh.com:8888/api/v1/index [运行时间：0.121351s][吞吐率：8.24req/s] [内存消耗：3,815.91kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'af2146f5-59bb-4609-9cc1-8a1562e4c291',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->Index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002248s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004306s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `is_head_figure` = 1 ORDER BY `id`  desc LIMIT 4 [ RunTime:0.000693s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `is_position` = 1 ORDER BY `id`  desc LIMIT 40 [ RunTime:0.000634s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:31:27+08:00 ] 127.0.0.1 GET /api/v1/news?catid=1
+[ info ] app.rmh.com:8888/api/v1/news?catid=1 [运行时间：0.062028s][吞吐率：16.12req/s] [内存消耗：3,818.38kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3652de84-f0e5-44d6-90a3-0752b67a90dc',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'catid' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000431s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002801s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 LIMIT 1 [ RunTime:0.000539s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000538s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:32:24+08:00 ] 127.0.0.1 GET /api/v1/news?catid=1
+[ info ] app.rmh.com:8888/api/v1/news?catid=1 [运行时间：0.096022s][吞吐率：10.41req/s] [内存消耗：3,818.24kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'be5bf0b5-ef22-4566-8ed3-351aa5d8b848',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'catid' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000446s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003092s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 LIMIT 1 [ RunTime:0.000532s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000555s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:32:39+08:00 ] 127.0.0.1 GET /api/v1/news
+[ info ] app.rmh.com:8888/api/v1/news [运行时间：0.062707s][吞吐率：15.95req/s] [内存消耗：3,814.91kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '0ceaa97e-1cd5-4267-999d-de3e25187041',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000363s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002897s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` IS NULL LIMIT 1 [ RunTime:0.000465s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` IS NULL ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000568s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:33:37+08:00 ] 127.0.0.1 GET /api/v1/news
+[ info ] app.rmh.com:8888/api/v1/news [运行时间：0.053671s][吞吐率：18.63req/s] [内存消耗：3,817.83kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'df9d9563-fa77-4607-bef1-a71f0c31764e',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000476s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003166s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1 LIMIT 1 [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000527s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:33:58+08:00 ] 127.0.0.1 GET /api/v1/news?catid=1
+[ info ] app.rmh.com:8888/api/v1/news?catid=1 [运行时间：0.093839s][吞吐率：10.66req/s] [内存消耗：3,818.70kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '24c5cb24-e127-4cf3-a60f-0c5c1438a78e',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'catid' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000828s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002726s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 LIMIT 1 [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000686s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:41:32+08:00 ] 127.0.0.1 GET /api/v1/news?catid=1
+[ info ] app.rmh.com:8888/api/v1/news?catid=1 [运行时间：0.103740s][吞吐率：9.64req/s] [内存消耗：3,819.46kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '98e57de1-5fca-4a41-8dc3-dcefcb3b8a09',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'catid' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000327s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002580s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 LIMIT 1 [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` = 1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000646s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:41:37+08:00 ] 127.0.0.1 GET /api/v1/news
+[ info ] app.rmh.com:8888/api/v1/news [运行时间：0.067882s][吞吐率：14.73req/s] [内存消耗：3,816.21kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '0de01a44-645d-4beb-95c7-3a88a2d14358',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000380s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002761s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 0 LIMIT 1 [ RunTime:0.000538s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` = 0 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000529s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:41:40+08:00 ] 127.0.0.1 GET /api/v1/news
+[ info ] app.rmh.com:8888/api/v1/news [运行时间：0.072802s][吞吐率：13.74req/s] [内存消耗：3,816.21kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '549c0c4d-c095-4ed9-8a27-43c169660fbd',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000390s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002756s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `catid` = 0 LIMIT 1 [ RunTime:0.000625s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `catid` = 0 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000597s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:41:48+08:00 ] 127.0.0.1 GET /api/v1/news
+[ info ] app.rmh.com:8888/api/v1/news [运行时间：0.083581s][吞吐率：11.96req/s] [内存消耗：3,818.52kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'f89ab25d-732f-4413-81a2-06c7e084fa87',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001225s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002669s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1 LIMIT 1 [ RunTime:0.000455s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000523s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:41:58+08:00 ] 127.0.0.1 GET /api/v1/news?title=h
+[ info ] app.rmh.com:8888/api/v1/news?title=h [运行时间：0.063266s][吞吐率：15.81req/s] [内存消耗：3,819.77kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'e1fababb-dcbe-4a11-aadf-56961ddf0cf6',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'title' => 'h',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000377s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003593s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `title` LIKE '%h%' LIMIT 1 [ RunTime:0.000629s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `title` LIKE '%h%' ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000738s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:42:04+08:00 ] 127.0.0.1 GET /api/v1/news?title=%E5%93%88
+[ info ] app.rmh.com:8888/api/v1/news?title=%E5%93%88 [运行时间：0.073372s][吞吐率：13.63req/s] [内存消耗：3,820.38kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.news',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '2bdd17b7-94e8-4931-8378-a23f040ecd65',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'title' => '哈',
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\News->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000409s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.008968s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` = 1  AND `title` LIKE '%哈%' LIMIT 1 [ RunTime:0.000665s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1  AND `title` LIKE '%哈%' ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000899s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:53:49+08:00 ] 127.0.0.1 GET /api/v1/rank/index
+[ info ] app.rmh.com:8888/api/v1/rank/index [运行时间：0.114574s][吞吐率：8.73req/s] [内存消耗：3,819.08kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.rank',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'cab3a641-0808-41e3-a95a-03d89bc0152a',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Rank->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Rank.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002191s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003966s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1 ORDER BY `read_count`  desc LIMIT 5 [ RunTime:0.000618s ]
+---------------------------------------------------------------
+[ 2018-02-20T20:54:25+08:00 ] 127.0.0.1 GET /api/v1/rank/index
+[ info ] app.rmh.com:8888/api/v1/rank/index [运行时间：0.065777s][吞吐率：15.20req/s] [内存消耗：3,819.57kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.rank',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'dacc42f5-b34a-472e-a310-1d76376b4ce4',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Rank->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Rank.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000399s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002604s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`is_position`,`update_time`,`create_time`,`status` FROM `ent_news` WHERE  `status` = 1 ORDER BY `read_count`  desc LIMIT 5 [ RunTime:0.000587s ]
+---------------------------------------------------------------
+[ 2018-02-20T21:19:47+08:00 ] 0.0.0.0 GET /admin/index/index.html
+[ info ] app.rmh.com:8888/admin/index/index.html [运行时间：0.120971s][吞吐率：8.27req/s] [内存消耗：2,734.97kb] [文件加载：53]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T21:19:47+08:00 ] 0.0.0.0 GET /admin/index/lib/jquery.contextmenu/jquery.contextmenu.r2.js
+[ info ] app.rmh.com:8888/admin/index/lib/jquery.contextmenu/jquery.contextmenu.r2.js [运行时间：0.141465s][吞吐率：7.07req/s] [内存消耗：2,714.41kb] [文件加载：55]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'lib',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+  'contextmenu' => 'jquery.contextmenu.r2.js',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T21:19:47+08:00 ] 0.0.0.0 GET /admin/index/welcome.html
+[ info ] app.rmh.com:8888/admin/index/welcome.html [运行时间：0.123771s][吞吐率：8.08req/s] [内存消耗：2,649.77kb] [文件加载：51]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://app.rmh.com:8888/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=4ba807c7e78c5e63f79c92c59aadbb1c',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-20T21:30:36+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.111225s][吞吐率：8.99req/s] [内存消耗：3,787.18kb] [文件加载：64]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '87b2a409-84e9-40b4-a5b8-5f4e27f35cec',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002410s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.004343s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `app_type` = 'ios' LIMIT 1 [ RunTime:0.000805s ]
+---------------------------------------------------------------
+[ 2018-02-20T21:31:01+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.114488s][吞吐率：8.73req/s] [内存消耗：3,796.29kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'ios',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '22aaa351-099f-42e1-8ea7-c1d204482fba',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001501s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.004134s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `app_type` = 'ios' LIMIT 1 [ RunTime:0.000612s ]
+---------------------------------------------------------------
+[ 2018-02-20T21:31:15+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.065077s][吞吐率：15.37req/s] [内存消耗：3,796.87kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'android',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3e61954b-f43d-4689-ada7-0f4dcd85c46a',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000522s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.003061s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `app_type` = 'android' LIMIT 1 [ RunTime:0.000617s ]
+---------------------------------------------------------------
+[ 2018-02-20T21:33:48+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.124476s][吞吐率：8.03req/s] [内存消耗：3,799.45kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'android',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'e4b2b164-bda9-47b7-a1c3-5cc345b9babc',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002884s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.004916s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `app_type` = 'android' LIMIT 1 [ RunTime:0.000629s ]
+---------------------------------------------------------------
+[ 2018-02-20T21:34:55+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.116023s][吞吐率：8.62req/s] [内存消耗：3,799.36kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'android',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '61937392-aea0-4f30-86a9-344219c70eec',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000440s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.012194s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `status` = 1  AND `app_type` = 'android' ORDER BY `id`  desc LIMIT 1 [ RunTime:0.000977s ]
+---------------------------------------------------------------
+[ 2018-02-20T21:38:28+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.136154s][吞吐率：7.34req/s] [内存消耗：3,806.91kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'android',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '1',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3643cbb9-4b68-44fb-8faa-42bafae439a5',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002704s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.002985s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `status` = 1  AND `app_type` = 'android' ORDER BY `id`  desc LIMIT 1 [ RunTime:0.000814s ]
+---------------------------------------------------------------
+[ 2018-02-20T21:38:40+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.080697s][吞吐率：12.39req/s] [内存消耗：3,807.20kb] [文件加载：65]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'android',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '3',
+  'cache-control' => 'no-cache',
+  'postman-token' => '350d1438-eb2f-494f-9f50-20777c8dd3f9',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001274s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.002970s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `status` = 1  AND `app_type` = 'android' ORDER BY `id`  desc LIMIT 1 [ RunTime:0.000603s ]
+---------------------------------------------------------------
+[ 2018-02-20T22:34:27+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.220377s][吞吐率：4.54req/s] [内存消耗：3,862.70kb] [文件加载：66]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'android',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '3',
+  'cache-control' => 'no-cache',
+  'postman-token' => '94a16c3a-bb22-4f34-bc6e-4939bbaec1c1',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000331s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.007879s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `status` = 1  AND `app_type` = 'android' ORDER BY `id`  desc LIMIT 1 [ RunTime:0.006050s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_app_active` [ RunTime:0.003262s ]
+[ sql ] [ SQL ] INSERT INTO `ent_app_active` (`version` , `app_type` , `did` , `create_time` , `update_time`) VALUES (3 , 'android' , 'dddssdsd' , 1519137267 , 1519137267) [ RunTime:0.001559s ]
+---------------------------------------------------------------
+[ 2018-02-20T22:34:46+08:00 ] 127.0.0.1 GET /api/v1/init
+[ info ] app.rmh.com:8888/api/v1/init [运行时间：0.073870s][吞吐率：13.54req/s] [内存消耗：3,862.70kb] [文件加载：66]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.index',
+    2 => 'init',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'did' => 'dddssdsd',
+  'app_type' => 'android',
+  'sign' => 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP',
+  'version' => '3',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b197b56d-3822-46fb-9f86-d7e862713cc8',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'app.rmh.com:8888',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'ver' => 'v1',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\api\controller\v1\Index->init[ /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/api/controller/v1/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000325s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.003315s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `status` = 1  AND `app_type` = 'android' ORDER BY `id`  desc LIMIT 1 [ RunTime:0.000608s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_app_active` [ RunTime:0.002920s ]
+[ sql ] [ SQL ] INSERT INTO `ent_app_active` (`version` , `app_type` , `did` , `create_time` , `update_time`) VALUES (3 , 'android' , 'dddssdsd' , 1519137286 , 1519137286) [ RunTime:0.000707s ]

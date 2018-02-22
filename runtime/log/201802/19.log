@@ -1,0 +1,1927 @@
+---------------------------------------------------------------
+[ 2018-02-19T00:18:23+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001772s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004139s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000758s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:18:27+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [1]Class 'Qiniu\Auth' not found
+---------------------------------------------------------------
+[ 2018-02-19T00:19:17+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000754s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002960s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000507s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000530s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:19:21+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [1]Class 'Qiniu\Auth' not found
+---------------------------------------------------------------
+[ 2018-02-19T00:20:43+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000934s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003592s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000450s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000546s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:20:48+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001238s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004235s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000459s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000557s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:20:52+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [1]Class 'Qiniu\Auth' not found
+---------------------------------------------------------------
+[ 2018-02-19T00:21:31+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000991s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003799s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000512s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001542s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:21:34+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [1]Class 'Qiniu\Auth' not found
+---------------------------------------------------------------
+[ 2018-02-19T00:23:52+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001059s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005995s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000915s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001155s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:23:55+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [64]main(): Failed opening required '../../vendor/qiniu/php-sdk/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php5.6.30/lib/php')
+---------------------------------------------------------------
+[ 2018-02-19T00:24:49+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000756s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004569s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000542s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:26:22+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000993s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003616s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000450s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000528s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:26:25+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000718s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004453s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000767s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:27:59+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000737s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004464s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000513s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000998s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:28:02+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001059s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004006s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000508s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000570s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:29:17+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001102s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003325s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000661s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001528s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:31:54+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001082s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002545s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000521s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000701s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:32:35+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001345s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004138s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000644s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000650s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:33:01+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000928s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004979s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000625s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:33:44+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000819s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004243s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000495s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000529s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:33:47+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [8]未定义变量: image
+---------------------------------------------------------------
+[ 2018-02-19T00:34:27+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000953s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005595s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000705s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000607s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:34:29+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [8]未定义变量: image
+---------------------------------------------------------------
+[ 2018-02-19T00:35:09+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002330s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003666s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000547s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:37:14+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000826s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003418s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000553s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:38:07+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000729s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005384s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000752s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000970s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:38:09+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [1]Class 'Qiniu\Auth' not found
+---------------------------------------------------------------
+[ 2018-02-19T00:38:18+08:00 ] 0.0.0.0 GET /admin/index/index.html
+[ error ] [64]main(): Failed opening required './vendor/qiniu/php-sdk/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php5.6.30/lib/php')
+---------------------------------------------------------------
+[ 2018-02-19T00:38:19+08:00 ] 0.0.0.0 GET /admin/index/welcome.html
+[ error ] [64]main(): Failed opening required './vendor/qiniu/php-sdk/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php5.6.30/lib/php')
+---------------------------------------------------------------
+[ 2018-02-19T00:38:26+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000704s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003395s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000957s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000921s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:38:29+08:00 ] 0.0.0.0 POST /admin/image/upload.html
+[ error ] [1]Class 'Qiniu\Auth' not found
+---------------------------------------------------------------
+[ 2018-02-19T00:39:56+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001266s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003624s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000589s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000547s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:40:11+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001002s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004267s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000485s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000608s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:40:50+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001459s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004895s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000510s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000609s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:53:38+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000982s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003790s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000504s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000554s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:53:51+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000819s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003544s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000624s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:53:53+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=3
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000735s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003881s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000438s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 4,2 [ RunTime:0.000531s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:53:57+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000882s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003393s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000609s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000621s ]
+---------------------------------------------------------------
+[ 2018-02-19T00:54:07+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=3
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001210s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003790s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 4,2 [ RunTime:0.000536s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:32:12+08:00 ] 0.0.0.0 POST /admin/login/check.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003688s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.046327s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.009232s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1519011132,`last_login_ip`='0.0.0.0',`update_time`=1519011132  WHERE  `id` = 1 [ RunTime:0.004019s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:32:17+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003922s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006434s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.003188s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000787s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:32:19+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000672s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003431s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000479s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000621s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:32:50+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001144s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002859s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000456s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000547s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:42:58+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [4]语法错误: unexpected '='
+---------------------------------------------------------------
+[ 2018-02-19T11:43:00+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [4]语法错误: unexpected '='
+---------------------------------------------------------------
+[ 2018-02-19T11:43:14+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [4]语法错误: unexpected '='
+---------------------------------------------------------------
+[ 2018-02-19T11:43:22+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [4]语法错误: unexpected '='
+---------------------------------------------------------------
+[ 2018-02-19T11:43:49+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000952s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004045s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc [ RunTime:0.000871s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:45:02+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001012s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004348s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000818s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:45:38+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001471s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003764s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000612s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T11:46:12+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000911s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004195s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001471s ]
+---------------------------------------------------------------
+[ 2018-02-19T11:46:13+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001110s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003665s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000879s ]
+---------------------------------------------------------------
+[ 2018-02-19T12:20:14+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001154s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004287s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000696s ]
+[ error ] [0]method not exist:think\db\Query->getNewsCounByCondition
+---------------------------------------------------------------
+[ 2018-02-19T12:20:14+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001025s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004393s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000857s ]
+[ error ] [0]method not exist:think\db\Query->getNewsCounByCondition
+---------------------------------------------------------------
+[ 2018-02-19T12:20:53+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000796s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004463s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.002193s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000562s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:21:58+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000898s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004410s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001037s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.001344s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:22:11+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000779s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006825s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001064s ]
+[ error ] [8]未定义变量: total
+---------------------------------------------------------------
+[ 2018-02-19T12:22:25+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000839s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005685s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000876s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:22:43+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001996s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003608s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000601s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:24:50+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001863s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004764s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000423s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:26:29+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000908s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003710s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001257s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000750s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:26:55+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000833s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004095s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000948s ]
+---------------------------------------------------------------
+[ 2018-02-19T12:35:41+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001500s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006336s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.003620s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000748s ]
+---------------------------------------------------------------
+[ 2018-02-19T12:35:42+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000720s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004818s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000594s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000423s ]
+---------------------------------------------------------------
+[ 2018-02-19T12:40:39+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001538s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005301s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000965s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000684s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:40:39+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001326s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005767s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001689s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000669s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:40:44+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000721s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003791s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001269s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000507s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:41:33+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001117s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006755s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000690s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000596s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:42:06+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000896s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003961s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001189s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000788s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:42:12+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000837s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005481s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000629s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000418s ]
+---------------------------------------------------------------
+[ 2018-02-19T12:42:41+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001589s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004185s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000719s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000457s ]
+[ error ] [1]Call to a member function appends() on array
+---------------------------------------------------------------
+[ 2018-02-19T12:43:14+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000919s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004166s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000593s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000620s ]
+---------------------------------------------------------------
+[ 2018-02-19T12:44:42+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002024s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003239s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001010s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000609s ]
+---------------------------------------------------------------
+[ 2018-02-19T12:45:00+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001153s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003626s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000894s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:09:16+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003018s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006748s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001694s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000978s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:09:16+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002189s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003283s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001406s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000541s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:10:44+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001763s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004667s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000445s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:12:04+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001093s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003726s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000633s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:16:48+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000953s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003220s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000773s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000456s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:17:14+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000997s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003824s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000637s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000419s ]
+[ error ] [8]未定义变量: page
+---------------------------------------------------------------
+[ 2018-02-19T13:17:30+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000797s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004576s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000422s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:17:44+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000953s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003912s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000876s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000425s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:19:32+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005918s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003147s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001173s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000650s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:20:23+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002431s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003335s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000497s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:20:31+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001094s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003761s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000828s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000446s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:20:34+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000868s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003883s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000421s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:20:38+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001077s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003814s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000651s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000441s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:23:17+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000928s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004430s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000612s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000423s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:23:45+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000794s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002761s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000760s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000445s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:23:53+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001329s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003792s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000747s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000413s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:24:33+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000919s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004686s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000611s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000395s ]
+---------------------------------------------------------------
+[ 2018-02-19T13:24:37+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001013s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003727s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000546s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:13:01+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002443s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003733s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000841s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000531s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:13:04+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001320s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003961s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000409s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:19:40+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003088s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002922s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:34:20+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [8]未定义变量: whereData
+---------------------------------------------------------------
+[ 2018-02-19T16:34:31+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [8]未定义变量: whereData
+---------------------------------------------------------------
+[ 2018-02-19T16:35:34+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [8]未定义变量: whereData
+---------------------------------------------------------------
+[ 2018-02-19T16:35:35+08:00 ] 0.0.0.0 GET /admin/news/
+[ error ] [8]未定义变量: whereData
+---------------------------------------------------------------
+[ 2018-02-19T16:36:47+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [8]未定义变量: whereData
+---------------------------------------------------------------
+[ 2018-02-19T16:36:47+08:00 ] 0.0.0.0 GET /admin/news/
+[ error ] [8]未定义变量: whereData
+---------------------------------------------------------------
+[ 2018-02-19T16:37:31+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003541s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005984s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001145s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.003374s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:37:32+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001034s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005077s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000680s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000480s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:37:56+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=2&start_time=2018-02-17+16%3A37&end_time=2018-02-19+16%3A37&title=
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000931s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002763s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  ( `create_time` > 1518856620 AND `create_time` < 1519029420 )  AND `catid` = 2  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.002572s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  ( `create_time` > 1518856620 AND `create_time` < 1519029420 )  AND `catid` = 2  AND `status` <> -1 LIMIT 1 [ RunTime:0.000566s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:38:33+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001311s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005339s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000862s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000571s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:38:33+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000941s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003805s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000685s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000751s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:38:35+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=&end_time=&title=3
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000755s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004046s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `title` LIKE '%3%'  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000843s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `title` LIKE '%3%'  AND `status` <> -1 LIMIT 1 [ RunTime:0.000487s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:44:36+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000997s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005247s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000695s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000688s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:44:46+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001122s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003117s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000880s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000962s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:51:15+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002247s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003266s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000792s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000508s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:51:34+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=1&start_time=&end_time=&title=3
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000910s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003826s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `catid` = 1  AND `title` LIKE '%3%'  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000916s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `catid` = 1  AND `title` LIKE '%3%'  AND `status` <> -1 LIMIT 1 [ RunTime:0.000512s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:51:50+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=1&start_time=2018-02-04+16%3A51&end_time=2018-02-19+16%3A51&title=
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001182s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003710s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  ( `create_time` > 1517734260 AND `create_time` < 1519030260 )  AND `catid` = 1  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000710s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  ( `create_time` > 1517734260 AND `create_time` < 1519030260 )  AND `catid` = 1  AND `status` <> -1 LIMIT 1 [ RunTime:0.000641s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:51:57+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000751s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004085s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000967s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000461s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:53:34+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002718s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002794s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000795s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000614s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:55:47+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000738s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003815s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000604s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000421s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:55:57+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=2018-02-19+16%3A55&end_time=2018-02-19+16%3A55&title=3
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000941s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003958s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `title` LIKE '%3%'  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000654s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `title` LIKE '%3%'  AND `status` <> -1 LIMIT 1 [ RunTime:0.000441s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:56:07+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=2&start_time=2018-02-19+16%3A55&end_time=2018-02-19+16%3A55&title=
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002293s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002959s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `catid` = 2  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000689s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `catid` = 2  AND `status` <> -1 LIMIT 1 [ RunTime:0.000543s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:56:12+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=2018-02-19+16%3A55&end_time=2018-02-19+16%3A55&title=
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001038s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003814s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000590s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000451s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:56:14+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=2018-02-19+16%3A55&end_time=2018-02-19+16%3A55&title=&page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001209s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003785s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000652s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000439s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:56:27+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=2018-02-19+16%3A55&end_time=2018-02-19+16%3A55&title=&page=2&page=3
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001176s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003823s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 4,2 [ RunTime:0.000589s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000400s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:56:36+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=2018-02-11+16%3A55&end_time=2018-02-19+16%3A55&title=
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000733s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003836s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  ( `create_time` > 1518339300 AND `create_time` < 1519030500 )  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.005789s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  ( `create_time` > 1518339300 AND `create_time` < 1519030500 )  AND `status` <> -1 LIMIT 1 [ RunTime:0.000716s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:56:40+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=2018-02-11+16%3A55&end_time=2018-02-19+16%3A55&title=&page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000715s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003784s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  ( `create_time` > 1518339300 AND `create_time` < 1519030500 )  AND `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  ( `create_time` > 1518339300 AND `create_time` < 1519030500 )  AND `status` <> -1 LIMIT 1 [ RunTime:0.000542s ]
+---------------------------------------------------------------
+[ 2018-02-19T16:56:44+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=2018-02-11+16%3A55&end_time=2018-02-19+16%3A55&title=&page=2&page=3
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000723s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004459s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  ( `create_time` > 1518339300 AND `create_time` < 1519030500 )  AND `status` <> -1 ORDER BY `id`  desc LIMIT 4,2 [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  ( `create_time` > 1518339300 AND `create_time` < 1519030500 )  AND `status` <> -1 LIMIT 1 [ RunTime:0.000517s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:12:15+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001753s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004103s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000658s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000552s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:26:51+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005204s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004666s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001261s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000545s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:01+08:00 ] 0.0.0.0 POST /admin/news/delete/id/5.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002413s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003263s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=-1,`update_time`=1519036021  WHERE  `id` = 5 [ RunTime:0.004715s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:01+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000848s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003789s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000410s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:07+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003642s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003853s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000974s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000857s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:08+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000824s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004714s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000659s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000438s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:11+08:00 ] 0.0.0.0 GET /admin/news/index.html?&page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002379s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002813s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000579s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000397s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:13+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2&page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000713s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004092s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000627s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000433s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:32+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=1&page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000819s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003926s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000604s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000783s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:53+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2&page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000763s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003770s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000435s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:54+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=1&page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000814s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004016s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000640s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000419s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:27:59+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=&end_time=&title=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001123s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003677s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `title` LIKE '%1%'  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `title` LIKE '%1%'  AND `status` <> -1 LIMIT 1 [ RunTime:0.000500s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:28:05+08:00 ] 0.0.0.0 POST /admin/news/delete/id/1.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000747s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003969s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=-1,`update_time`=1519036085  WHERE  `id` = 1 [ RunTime:0.000953s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:28:05+08:00 ] 0.0.0.0 GET /admin/news/index.html?catid=0&start_time=&end_time=&title=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002391s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002643s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `title` LIKE '%1%'  AND `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000658s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `title` LIKE '%1%'  AND `status` <> -1 LIMIT 1 [ RunTime:0.000641s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:28:56+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001012s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004041s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001122s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000765s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:29:41+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000837s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.007730s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000709s ]
+---------------------------------------------------------------
+[ 2018-02-19T18:30:33+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001001s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003830s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000637s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000417s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:43:17+08:00 ] 0.0.0.0 GET /admin/index/index.html
+[ info ] app.rmh.com:8888/admin/index/index.html [运行时间：0.039555s][吞吐率：25.28req/s] [内存消耗：1,696.89kb] [文件加载：40]
+[ error ] [4]syntax error, unexpected 'public' (T_PUBLIC)[/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/application/common.php:41]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-19T20:44:12+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001055s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003133s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000702s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000424s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:44:20+08:00 ] 0.0.0.0 GET /admin/news/index.html?&page=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000815s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003723s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 2,2 [ RunTime:0.000614s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000397s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:44:21+08:00 ] 0.0.0.0 GET /admin/news/index.html?page=2&page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000992s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003587s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000413s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:45:44+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004411s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002656s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000409s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:51:27+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001242s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005737s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001914s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.002558s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:51:28+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000880s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004081s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000638s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000407s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:51:29+08:00 ] 0.0.0.0 POST /admin/news/status/id/4/status/1.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000790s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003593s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=-1,`update_time`=1519044689  WHERE  `id` = 4 [ RunTime:0.002126s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:51:29+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000756s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005433s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000660s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000437s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:51:36+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000986s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003906s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000878s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:51:45+08:00 ] 0.0.0.0 POST /admin/news/status/id/2/status/1.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002917s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003267s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=-1,`update_time`=1519044705  WHERE  `id` = 2 [ RunTime:0.001051s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:51:45+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000814s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003572s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000636s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000423s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:30+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001041s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003851s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000736s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000911s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:31+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002622s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002761s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000618s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000490s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:33+08:00 ] 0.0.0.0 POST /admin/news/status/id/3/status/1.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000774s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003690s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=1,`update_time`=1519044753  WHERE  `id` = 3 [ RunTime:0.002590s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:33+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000785s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003781s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000857s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:35+08:00 ] 0.0.0.0 POST /admin/news/status/id/3/status/0.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002756s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002875s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=0,`update_time`=1519044755  WHERE  `id` = 3 [ RunTime:0.001666s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:35+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002281s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002752s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000639s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000443s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:38+08:00 ] 0.0.0.0 POST /admin/news/status/id/3/status/1.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001079s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003694s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=1,`update_time`=1519044758  WHERE  `id` = 3 [ RunTime:0.000912s ]
+---------------------------------------------------------------
+[ 2018-02-19T20:52:38+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000809s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002950s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000633s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000446s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:11:23+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005427s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003698s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000435s ]
+[ error ] [8]Array to string conversion
+---------------------------------------------------------------
+[ 2018-02-19T21:12:49+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001122s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005255s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.003068s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000683s ]
+[ error ] [8]Array to string conversion
+---------------------------------------------------------------
+[ 2018-02-19T21:13:25+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001978s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005502s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000917s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000674s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:20:59+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002759s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.008262s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001109s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000787s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:21:12+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001521s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006951s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001201s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000735s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:21:14+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001417s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006049s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.026442s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000893s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:21:37+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001207s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006932s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001064s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000749s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:21:39+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:22:15+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003102s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004993s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000945s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000643s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:22:17+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:23:21+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002567s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003120s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001207s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000534s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:23:24+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:24:00+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000923s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003622s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000784s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000456s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:24:03+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:25:17+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000969s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004335s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000548s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:25:42+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:26:22+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001566s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004846s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000421s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:26:24+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:27:02+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001619s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.008880s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000661s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000925s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:27:03+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002272s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002596s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000392s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:27:05+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:29:09+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003948s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003839s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000464s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:29:17+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:29:57+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002490s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005997s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001162s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000865s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:29:58+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002973s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004954s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001126s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000565s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:31:28+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000870s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004459s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000645s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000426s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:31:30+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:31:47+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000909s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003736s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000634s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000500s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:31:54+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002765s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004526s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000904s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000661s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:31:54+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013525s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003207s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000746s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000628s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:31:57+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:31:59+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000751s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003523s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000415s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:32:01+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:32:02+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000731s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003630s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000598s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000647s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:32:06+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:32:11+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000712s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003848s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000600s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000513s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:32:24+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002982s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006184s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000803s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.001695s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:32:24+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001454s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003840s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000612s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000417s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:36:39+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000772s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003934s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000601s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000409s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:36:41+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:44:28+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003060s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005309s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001074s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000741s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:44:39+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:44:49+08:00 ] 0.0.0.0 GET //admin/news/edit/id/3.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:45:02+08:00 ] 0.0.0.0 GET //admin/news/edit/id/3.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:45:29+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002358s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002972s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000601s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000357s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:45:34+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000996s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004591s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000716s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.001336s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:45:36+08:00 ] 0.0.0.0 GET /admin/news/edit.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:46:26+08:00 ] 0.0.0.0 GET /admin/news/newsedit.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/newsedit.html
+---------------------------------------------------------------
+[ 2018-02-19T21:46:33+08:00 ] 0.0.0.0 GET /admin/news/newsedit.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/newsedit.html
+---------------------------------------------------------------
+[ 2018-02-19T21:46:35+08:00 ] 0.0.0.0 GET /admin/news/newsedit.html
+[ error ] [0]模板文件不存在:/Users/renmenghan/Documents/workspace/PHP/app.rmh.com/public/../application/admin/view/news/newsedit.html
+---------------------------------------------------------------
+[ 2018-02-19T21:47:29+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005457s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003603s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000659s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000750s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:47:32+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002032s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005635s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000452s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:47:34+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000841s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003962s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001284s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000536s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:47:34+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000807s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005578s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000796s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000749s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:47:36+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001456s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004692s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000420s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:48:09+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007362s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004338s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000590s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000392s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:48:38+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002590s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002731s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000691s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000495s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:48:42+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ error ] [8]未定义变量: cats
+---------------------------------------------------------------
+[ 2018-02-19T21:48:50+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001053s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004384s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000611s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000396s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:51:31+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000903s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005368s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000970s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000541s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:51:34+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ error ] [8]未定义变量: catid
+---------------------------------------------------------------
+[ 2018-02-19T21:53:36+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003427s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003934s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000706s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000396s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:53:48+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000946s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005174s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000634s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000420s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:56:04+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000798s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003538s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000998s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000643s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:56:06+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000823s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005537s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000651s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:56:42+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003421s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002560s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000593s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000498s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:56:44+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002833s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.009778s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.001047s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:57:41+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002129s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004350s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000610s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000395s ]
+---------------------------------------------------------------
+[ 2018-02-19T21:57:45+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000926s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004170s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.001549s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:05:02+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000722s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.007417s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001018s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000466s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:05:04+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000732s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004411s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.001105s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:09:58+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002787s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003701s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000857s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000432s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:10:00+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000956s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002794s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000620s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:13:32+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002253s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002744s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000589s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000389s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:13:34+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000728s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004745s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000671s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:14:08+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001324s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004171s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000646s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000421s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:14:10+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000771s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002922s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000811s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:14:17+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001690s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.007064s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001626s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.001881s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:14:17+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002614s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.008159s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001770s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.003130s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:14:20+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001107s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003609s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000656s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:15:52+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000776s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002650s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000850s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000731s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:15:54+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000889s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004791s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000780s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:16:40+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001528s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004469s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000927s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000538s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:16:42+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000840s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005041s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000613s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:17:31+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000907s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003725s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000600s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000394s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:17:34+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000805s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004296s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000607s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:18:10+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000787s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005101s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000617s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000425s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:18:12+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000937s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005544s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000599s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:19:09+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000974s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003908s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000884s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000752s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:19:11+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000820s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003963s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000551s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:20:10+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000761s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002733s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000853s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000724s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:20:11+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002729s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003562s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000637s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:21:40+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001108s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003851s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000857s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000889s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:21:41+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000881s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003791s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000603s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:00+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002497s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003199s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000414s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:02+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000781s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003912s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000614s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000420s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:07+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000850s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004009s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000618s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000424s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:08+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000792s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004061s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000582s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:27+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002738s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002957s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000399s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:29+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000734s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005009s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000619s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:45+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000808s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004639s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000862s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000454s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:22:47+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000793s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003895s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000592s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:26:40+08:00 ] 0.0.0.0 POST /admin/news/edit.html
+[ error ] [64]Cannot use [] for reading
+---------------------------------------------------------------
+[ 2018-02-19T22:26:45+08:00 ] 0.0.0.0 POST /admin/news/edit.html
+[ error ] [64]Cannot use [] for reading
+---------------------------------------------------------------
+[ 2018-02-19T22:26:49+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [64]Cannot use [] for reading
+---------------------------------------------------------------
+[ 2018-02-19T22:26:50+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ error ] [64]Cannot use [] for reading
+---------------------------------------------------------------
+[ 2018-02-19T22:27:34+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000757s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004113s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001130s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000818s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:27:36+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000984s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005352s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000618s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:29:40+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003660s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003533s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000860s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000536s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:29:44+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002911s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002794s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000603s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:30:08+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000947s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003872s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000596s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000528s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:30:10+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001174s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004088s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000567s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:32:53+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001990s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003690s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000925s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000516s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:32:56+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001786s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003876s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000609s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:34:07+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000809s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005309s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001371s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000496s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:34:13+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000932s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006739s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000663s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:34:21+08:00 ] 0.0.0.0 POST /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000789s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004417s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:34:24+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001066s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005659s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001052s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000419s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:36:18+08:00 ] 0.0.0.0 POST /admin/news/edit/id/3.html
+[ error ] [8]Array to string conversion
+---------------------------------------------------------------
+[ 2018-02-19T22:36:58+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000817s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002538s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000416s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:37:00+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002252s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002823s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000739s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:37:04+08:00 ] 0.0.0.0 POST /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000784s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004313s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='34343',`small_title`='223',`catid`=2,`description`='232223',`is_allowcomments`=1,`image`='1',`content`='<p>dsds</p>',`update_time`=1519051024  WHERE  `id` = 3 [ RunTime:0.003398s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:38:14+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000744s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003729s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000657s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000600s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:38:19+08:00 ] 0.0.0.0 GET /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001261s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004422s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000788s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:38:32+08:00 ] 0.0.0.0 POST /admin/news/edit/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000709s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003877s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='34343',`small_title`='223',`catid`=2,`description`='232223',`is_allowcomments`=1,`image`='1',`content`='<p>dsdsdfsfdssdfds</p>',`update_time`=1519051112  WHERE  `id` = 3 [ RunTime:0.000838s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:38:32+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000788s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004857s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000700s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000444s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:08+08:00 ] 0.0.0.0 POST /admin/news/delete/id/3.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000722s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003674s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=-1,`update_time`=1519051208  WHERE  `id` = 3 [ RunTime:0.000802s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:08+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000892s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003964s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000606s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000454s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:14+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000873s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002743s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000837s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000439s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:43+08:00 ] 0.0.0.0 POST /admin/news/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001310s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003600s ]
+[ sql ] [ SQL ] INSERT INTO `ent_news` (`title` , `small_title` , `catid` , `description` , `is_allowcomments` , `is_position` , `image` , `content` , `create_time` , `update_time`) VALUES ('大豌豆' , '下午茶' , 1 , '哈哈哈哈' , 1 , 1 , 'http://p4ce9uqui.bkt.clouddn.com/2018/02/6392c201802192240367164.jpg' , '<p>嘻嘻嘻嘻</p>' , 1519051243 , 1519051243) [ RunTime:0.002467s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:43+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000792s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004305s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000657s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000523s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:48+08:00 ] 0.0.0.0 POST /admin/news/status/id/6/status/1.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000712s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003691s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=1,`update_time`=1519051248  WHERE  `id` = 6 [ RunTime:0.000938s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:48+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000799s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004205s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000636s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000473s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:40:50+08:00 ] 0.0.0.0 GET /admin/news/edit/id/6.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000897s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003698s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000582s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:42:37+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000906s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002658s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000416s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:42:40+08:00 ] 0.0.0.0 GET /admin/news/edit/id/6.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000994s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004134s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000585s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:43:15+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001258s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003896s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000613s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000392s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:43:17+08:00 ] 0.0.0.0 GET /admin/news/edit/id/6.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000708s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003732s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.002106s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:43:22+08:00 ] 0.0.0.0 POST /admin/news/edit/id/6.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000782s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003800s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='大豌豆',`small_title`='下午茶',`catid`=1,`description`='哈哈哈哈',`is_allowcomments`=1,`is_head_figure`=1,`is_position`=1,`image`='1',`content`='<p>嘻嘻嘻嘻</p>',`update_time`=1519051402  WHERE  `id` = 6 [ RunTime:0.001552s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:43:22+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000735s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004830s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000616s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000407s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:43:24+08:00 ] 0.0.0.0 GET /admin/news/edit/id/6.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001354s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.007006s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.002281s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:43:24+08:00 ] 0.0.0.0 GET /admin/news/edit/id/1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002284s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006315s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.003386s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:43:52+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000694s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004553s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000725s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000622s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:44:08+08:00 ] 0.0.0.0 POST /admin/news/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000723s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004695s ]
+[ sql ] [ SQL ] INSERT INTO `ent_news` (`title` , `small_title` , `catid` , `description` , `is_allowcomments` , `image` , `content` , `create_time` , `update_time`) VALUES ('嘻嘻哈哈' , '穷开心' , 1 , '哈哈哈哈' , 1 , 'http://p4ce9uqui.bkt.clouddn.com/2018/02/811cc201802192244033741.jpg' , '<p>dd</p>' , 1519051448 , 1519051448) [ RunTime:0.001538s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:44:08+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000831s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003184s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000898s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000439s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:44:13+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000934s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003921s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000567s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:44:18+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000717s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003666s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/811cc201802192244033741.jpg',`content`='<p>dd</p>',`update_time`=1519051458  WHERE  `id` = 7 [ RunTime:0.001229s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:44:18+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000715s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003469s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000566s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000419s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:44:21+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001325s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004692s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000590s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:44:58+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002055s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003776s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000605s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:45:05+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000866s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003380s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/811cc201802192244033741.jpg',`content`='<p>dd</p>',`update_time`=1519051505  WHERE  `id` = 7 [ RunTime:0.001499s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:45:05+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000786s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004027s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000454s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:45:08+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000913s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002737s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000623s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:45:17+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001573s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004152s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>dd</p>',`update_time`=1519051517  WHERE  `id` = 7 [ RunTime:0.000851s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:45:32+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000850s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003711s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>dd</p>',`update_time`=1519051532  WHERE  `id` = 7 [ RunTime:0.001064s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:45:43+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001458s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003963s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000612s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:45:50+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000739s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002462s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000679s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000489s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:09+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000832s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005346s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000761s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:13+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000761s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003759s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>dd</p>',`update_time`=1519051573  WHERE  `id` = 7 [ RunTime:0.000841s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:13+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000730s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004114s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000650s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000429s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:16+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001064s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.008588s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.002447s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:21+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000706s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003779s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000623s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:27+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000803s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003803s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000736s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:33+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000785s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003964s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>ddddd</p>',`update_time`=1519051593  WHERE  `id` = 7 [ RunTime:0.000894s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:33+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000711s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003469s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000565s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000389s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:45+08:00 ] 0.0.0.0 POST /admin/news/delete/id/6.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000826s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003965s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=-1,`update_time`=1519051605  WHERE  `id` = 6 [ RunTime:0.000801s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:45+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000692s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003376s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000604s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000409s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:46:48+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000784s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003486s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000552s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:50:15+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001065s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006485s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000957s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000745s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:50:16+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000901s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004918s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001295s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.001595s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:50:18+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000850s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002633s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000672s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:50:21+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000767s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003689s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈ddd',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>ddddd</p>',`update_time`=1519051821  WHERE  `id` = 7 [ RunTime:0.000848s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:50:21+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000677s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003664s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000428s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:53:04+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000775s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003182s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000677s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000455s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:53:06+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000876s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003662s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000575s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:53:10+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000715s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003560s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈dddss',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>ddddd</p>',`update_time`=1519051989  WHERE  `id` = 7 [ RunTime:0.001528s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:53:10+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000775s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.002677s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000679s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000450s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:54:48+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001247s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.007957s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000989s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000758s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:54:48+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000896s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003708s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000641s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000508s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:54:50+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001230s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004252s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000603s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:55:01+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000867s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003788s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈dddss',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>ddddd</p>',`update_time`=1519052101  WHERE  `id` = 7 [ RunTime:0.001337s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:55:01+08:00 ] 0.0.0.0 GET /admin/news/edit/id/undefined
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000938s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004646s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000816s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:14+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000911s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003749s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000651s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000496s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:16+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001124s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003842s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.001750s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:18+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000702s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004393s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈dddss',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>ddddd</p>',`update_time`=1519052178  WHERE  `id` = 7 [ RunTime:0.001344s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:21+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000719s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004765s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000776s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:25+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000711s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003496s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈dddssssd',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/4ded9201802192245147148.jpg',`content`='<p>ddddd</p>',`update_time`=1519052185  WHERE  `id` = 7 [ RunTime:0.001527s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:27+08:00 ] 0.0.0.0 GET /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001976s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003992s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000551s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:43+08:00 ] 0.0.0.0 POST /admin/news/edit/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000722s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004181s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `title`='嘻嘻哈哈',`small_title`='穷开心',`catid`=1,`description`='哈哈哈哈dddssssd',`is_allowcomments`=1,`is_head_figure`=1,`image`='http://p4ce9uqui.bkt.clouddn.com/2018/02/6ad56201802192256367241.jpg',`content`='<p>ddddd</p>',`update_time`=1519052203  WHERE  `id` = 7 [ RunTime:0.001120s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:48+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001363s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.005005s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.001005s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000614s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:56:48+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000954s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003488s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000688s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000509s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:57:29+08:00 ] 0.0.0.0 POST /admin/news/status/id/7/status/1.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000777s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003584s ]
+[ sql ] [ SQL ] UPDATE `ent_news`  SET `status`=1,`update_time`=1519052249  WHERE  `id` = 7 [ RunTime:0.002713s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:57:29+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000724s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003959s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000394s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:57:31+08:00 ] 0.0.0.0 GET /admin/news/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000919s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.004462s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000653s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000418s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:57:52+08:00 ] 0.0.0.0 POST /admin/news/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000966s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003695s ]
+[ sql ] [ SQL ] INSERT INTO `ent_news` (`title` , `small_title` , `catid` , `description` , `is_allowcomments` , `is_head_figure` , `is_position` , `image` , `content` , `create_time` , `update_time`) VALUES ('h哈哈哈' , 'dd' , 2 , 'ddfsf' , 1 , 1 , 1 , 'http://p4ce9uqui.bkt.clouddn.com/2018/02/06ff3201802192257486774.jpg' , '<p>adfadf</p>' , 1519052272 , 1519052272) [ RunTime:0.000963s ]
+---------------------------------------------------------------
+[ 2018-02-19T22:57:52+08:00 ] 0.0.0.0 GET /admin/news/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000839s ] mysql:host=localhost;port=8889;dbname=app_rmh;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.003666s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,2 [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.000811s ]
