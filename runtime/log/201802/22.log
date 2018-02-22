@@ -5448,3 +5448,29 @@
   'auto_start' => true,
 )
 [ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-22T22:29:39+08:00 ] 0.0.0.0 GET /phpadmin
+[ info ] app.rmh.com:8888/phpadmin [运行时间：0.054029s][吞吐率：18.51req/s] [内存消耗：1,892.64kb] [文件加载：45]
+[ info ] [ LANG ] /Users/renmenghan/Documents/workspace/PHP/app.rmh.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.rmh.com:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1518860412; PHPSESSID=025673cc14e3b0e7ac95d5bc4e311a60',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
