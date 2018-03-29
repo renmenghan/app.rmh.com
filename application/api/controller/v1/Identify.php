@@ -6,7 +6,7 @@
  * Time: 上午10:57
  */
 namespace app\api\controller\v1;
-use think\controller;
+use think\Controller;
 use app\common\lib\AliSms;
 use app\api\controller\Common;
 class Identify extends Common {
@@ -26,6 +26,7 @@ class Identify extends Common {
         }
 
         $id = input('param.id');
+
         if (AliSms::getInstance()->setSmsIdentify($id)){
             return show(config('code.success'),'验证码发送成功',[],201);
 

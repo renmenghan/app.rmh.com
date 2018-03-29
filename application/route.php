@@ -30,7 +30,9 @@ Route::resource('api/:ver/identify', 'api/:ver.identify');
 // 登录路由
 Route::post('api/:ver/login', 'api/:ver.login/save');
 
-Route::resource('api/:ver/user', 'api/:ver.user');
+Route::get('api/:ver/user', 'api/:ver.user/index');
+Route::post('api/:ver/user', 'api/:ver.user/update');
+
 // 图片上传
 Route::post('api/:ver/image', 'api/:ver.image/save');
 // 点赞
@@ -43,3 +45,7 @@ Route::get('api/:ver/upvote/:id', 'api/:ver.upvote/read');
 Route::post('api/:ver/comment', 'api/:ver.comment/save');
 Route::get('api/:ver/comment/:id', 'api/:ver.comment/read');
 
+// 运动
+Route::post('api/:ver/sport', 'api/:ver.sport/save');
+Route::get('api/:ver/sport', 'api/:ver.sport/index');
+Route::get('api/:ver/everyday', 'api/:ver.sport/everyday');

@@ -8,7 +8,7 @@
 namespace app\api\controller;
 use Qiniu\Auth;
 use think\Cache;
-use think\controller;
+use think\Controller;
 use app\common\lib\exception\ApiException;
 use app\common\lib\Aes;
 use app\common\lib\IAuth;
@@ -48,6 +48,7 @@ class Common extends Controller{
      */
     public function _initialize() {
 
+//        phpinfo();exit();
         $this->checkRequestAuth();
         //$this->testAes();
     }
@@ -58,6 +59,7 @@ class Common extends Controller{
     public function checkRequestAuth(){
         // 首先需要获取headers
         $headers = request()->header();
+//        halt($headers);
         //todo
 
         //aes sign 加密 需要客户端工程师去做 解密服务端工程师
@@ -90,9 +92,9 @@ class Common extends Controller{
             'time'=>Time::get13TimeStamp(),
             ];
 
-        $str = 'oGBbW9doCX9OsM/e5k/JRRLx4MWwV895RPUwwk1sCSSZa2qPuoLXZmFjhcMhTLwP';
-        echo (new Aes())->decrypt($str);exit();
-        //echo IAuth::setSign($data);exit;
+        $str = 'DVNxFPO5UEeVdYKDn9OqY9m6uZ4UvWgB7Up9wZJ+BSRx8W81qW2iVA==';
+        //echo (new Aes())->decrypt($str);exit();
+        echo IAuth::setSign($data);exit;
         //echo (new Aes())->decrypt('usgNs94NhY4kN/m7tCXUxRHDyN+4bKuNl1MwWIyhXfQ=');exit();
     }
 
@@ -100,7 +102,7 @@ class Common extends Controller{
     /**
      * 获取处理的新闻的内容数据
      */
-    protected function getDealNews($news=[]){
+    protected function getDealNews($news = []){
         if (empty($news)){
             return [];
         }

@@ -7,7 +7,7 @@
  */
 return [
     'password_pre_halt' => '_#rmh_app', //密码加密盐
-    'aeskey' =>'qwsxcfui897654rtyui65432',// 秘钥 服务端客户端必须保持一致
+    'aeskey' =>'qwsxcfui',// 秘钥 服务端客户端必须保持一致
     'apptypes'=>[
         'android',
         'ios',

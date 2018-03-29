@@ -7,7 +7,7 @@
  */
 namespace app\api\controller\v1;
 use app\api\controller\Common;
-use think\controller;
+use think\Controller;
 use app\common\lib\exception\ApiException;
 class News extends Common {
 
@@ -34,6 +34,11 @@ class News extends Common {
             'page_num'=>ceil($total / $this->size),
             'list' =>$this->getDealNews($news),
         ];
+        if (empty($whereData['catid'])){
+            $heads = model('News')->getIndexHeadNormalNews();
+            $heads = $this->getDealNews($heads);
+            $result['heads'] = $heads;
+        }
 
         return show(config('code.success'),'ok',$result,200);
 
@@ -53,6 +58,7 @@ class News extends Common {
         // 通过id 去获取数据表里面的数据
         // try catch untodo
         $news = model('News')->get($id);
+//        halt($news);
         if(empty($news) || $news->status != config('code.status_normal')) {
             return new ApiException('不存在该新闻', 404);
         }
@@ -65,6 +71,9 @@ class News extends Common {
 
         $cats = config('cat.lists');
         $news->catname = $cats[$news->catid];
+
+
+
         return show(config('code.success'), 'OK', $news, 200);
     }
 

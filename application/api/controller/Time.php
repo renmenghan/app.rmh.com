@@ -6,7 +6,9 @@
  * Time: 上午10:57
  */
 namespace app\api\controller;
-use think\controller;
+
+use think\Controller;
+
 class Time extends Controller {
     public function index(){
        return show(1,'ok',time());

@@ -17,8 +17,7 @@ class News extends Base{
             'neq',config('code.status_delete')
         ];
         $order = ['id' => 'desc'];
-
-        $result = $this->where($data)
+            $result = $this->where($data)
             ->order($order)
             ->paginate();
 
@@ -50,7 +49,7 @@ class News extends Base{
             ->field($this->_getListField())
             ->select();
 
-        echo $this->getLastSql();
+        //echo $this->getLastSql();
         return $result;
     }
 

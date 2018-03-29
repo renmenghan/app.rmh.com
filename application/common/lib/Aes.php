@@ -9,8 +9,7 @@ namespace app\common\lib;
  */
 class Aes {
 
-    private $key = null;
-
+    private $key = '';
     /**
      *
      * @param $key 		密钥
@@ -19,53 +18,44 @@ class Aes {
     public function __construct() {
         // 需要小伙伴在配置文件app.php中定义aeskey
         $this->key = config('app.aeskey');
-    }
-
-    /**
-     * 加密
-     * @param String input 加密的字符串
-     * @param String key   解密的key
-     * @return HexString
-     */
-    public function encrypt($input = '') {
-        $size = mcrypt_get_block_size(MCRYPT_RIJNDAEL_128, MCRYPT_MODE_ECB);
-        $input = $this->pkcs5_pad($input, $size);
-        $td = mcrypt_module_open(MCRYPT_RIJNDAEL_128, '', MCRYPT_MODE_ECB, '');
-        $iv = mcrypt_create_iv(mcrypt_enc_get_iv_size($td), MCRYPT_RAND);
-        mcrypt_generic_init($td, $this->key, $iv);
-
-        $data = mcrypt_generic($td, $input);
-        mcrypt_generic_deinit($td);
-        mcrypt_module_close($td);
-        $data = base64_encode($data);
-
-        return $data;
 
     }
     /**
-     * 填充方式 pkcs5
-     * @param String text 		 原始字符串
-     * @param String blocksize   加密长度
-     * @return String
+     * PHP DES 加密程式
+     *
+     * @param $key 密鑰（八個字元內）
+     * @param $encrypt 要加密的明文
+     * @return string 密文
      */
-    private function pkcs5_pad($text, $blocksize) {
-        $pad = $blocksize - (strlen($text) % $blocksize);
-        return $text . str_repeat(chr($pad), $pad);
+
+    function encrypt ( $encrypt) {
+        // 根據 PKCS#7 RFC 5652 Cryptographic Message Syntax (CMS) 修正 Message 加入 Padding
+        $block = mcrypt_get_block_size(MCRYPT_DES, MCRYPT_MODE_ECB);
+        $pad = $block - (strlen($encrypt) % $block);
+        $encrypt .= str_repeat(chr($pad), $pad);
+
+        // 不需要設定 IV 進行加密
+        $passcrypt = mcrypt_encrypt(MCRYPT_DES, $this->key, $encrypt, MCRYPT_MODE_ECB);
+        return base64_encode($passcrypt);
     }
 
-    /**
-     * 解密
-     * @param String input 解密的字符串
-     * @param String key   解密的key
-     * @return String
-     */
-    public function decrypt($sStr) {
-        $decrypted= mcrypt_decrypt(MCRYPT_RIJNDAEL_128,$this->key,base64_decode($sStr), MCRYPT_MODE_ECB);
-        $dec_s = strlen($decrypted);
-        $padding = ord($decrypted[$dec_s-1]);
-        $decrypted = substr($decrypted, 0, -$padding);
 
-        return $decrypted;
+
+    /**
+     * PHP DES 解密程式
+     *
+     * @param $key 密鑰（八個字元內）
+     * @param $decrypt 要解密的密文
+     * @return string 明文
+     */
+    function decrypt ($decrypt)
+    {
+        // 不需要設定 IV
+        $str = mcrypt_decrypt(MCRYPT_DES, $this->key, base64_decode($decrypt), MCRYPT_MODE_ECB);
+
+        // 根據 PKCS#7 RFC 5652 Cryptographic Message Syntax (CMS) 修正 Message 移除 Padding
+        $pad = ord($str[strlen($str) - 1]);
+        return substr($str, 0, strlen($str) - $pad);
     }
 
 }

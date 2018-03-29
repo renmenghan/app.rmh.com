@@ -7,7 +7,7 @@
  */
 namespace app\api\controller\v1;
 use app\api\controller\Common;
-use think\controller;
+use think\Controller;
 use app\common\lib\exception\ApiException;
 class Rank extends Common {
 

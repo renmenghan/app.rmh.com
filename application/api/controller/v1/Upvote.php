@@ -9,7 +9,7 @@ namespace app\api\controller\v1;
 use app\api\controller\Common;
 use app\common\lib\Aes;
 use app\common\lib\IAuth;
-use think\controller;
+use think\Controller;
 use app\common\lib\exception\ApiException;
 class Upvote extends AuthBase {
 

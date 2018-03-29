@@ -9,7 +9,7 @@ namespace app\api\controller\v1;
 use app\api\controller\Common;
 use app\common\lib\Aes;
 use app\common\lib\IAuth;
-use think\controller;
+use think\Controller;
 use app\common\lib\exception\ApiException;
 use app\common\model\User;
 class Comment extends AuthBase {
@@ -65,6 +65,7 @@ class Comment extends AuthBase {
     }
     */
     public function read(){
+
         // select * from ent_comment as a join ent_user as b on a.user_id=b.id and a.news_id=8
         $newsId = input('param.id',0,'intval');
         if (empty($newsId)){
@@ -76,6 +77,8 @@ class Comment extends AuthBase {
         $count = model('Comment')->getCountByCondition($param);
 
         $this->getPageAndSize(input('param.'));
+
+        $userIds = [];
 
         $comments = model('Comment')->getListsByCondition($param,$this->from,$this->size);
         if ($comments){

@@ -18,10 +18,16 @@ class Login extends Common {
     public function save(){
 
         if (!request()->isPost()){
+
             return show(config('code.error'),'没有权限',[],403);
         }
 
+
         $param = input('param.');
+
+//        $param = json_encode($param);
+//        echo $jsonencode;exit();
+        //var_dump($param);exit();
         if (empty($param['phone'])){
             return show(config('code.error'),'手机号码不合法',[],404);
 
@@ -32,9 +38,10 @@ class Login extends Common {
 
         if (!empty($param['code'])){
             //$param['code'] = Aes::decrypt($param['code']);
+//            $code = 1234;
             $code = AliSms::getInstance()->checkSmsIdentify($param['phone']);
             if ($code != $param['code']){
-                return show(config('code.error'),'验证码不存在',[],404);
+                return show(config('code.error'),'验证码不存在',[],200);
             }
         }
         // validate
@@ -69,11 +76,12 @@ class Login extends Common {
         }
 
         $obj = new Aes();
+
         if ($id){
             $result = [
                 'token'=> $obj->encrypt($token."||".$id),
             ];
-            return show(config('code.success'),'ok',$result,500);
+            return show(config('code.success'),'ok',$result,200);
         }else{
             return show(config('code.error'),'登录失败',[],403);
 

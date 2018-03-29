@@ -9,7 +9,7 @@ namespace app\api\controller\v1;
 use app\api\controller\Common;
 use app\common\lib\Aes;
 use app\common\lib\Upload;
-use think\controller;
+use think\Controller;
 use app\common\lib\exception\ApiException;
 class Image extends AuthBase {
 
@@ -22,7 +22,8 @@ class Image extends AuthBase {
 
         $image = Upload::image();
         if ($image){
-            return show(config('code.success'),'ok',config('qiniu.image_url').'/'.$image);
+            $result=['image'=> config('qiniu.image_url').'/'.$image ];
+            return show(config('code.success'),'ok',$result);
 
         }
         //print_r($_FILES);

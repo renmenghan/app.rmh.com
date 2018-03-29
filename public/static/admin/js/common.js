@@ -8,9 +8,9 @@
 function rmhapp_save(form) {
 
     var data = $(form).serialize();
+    console.log(data);
     // 调试
     url = $(form).attr('url');
-    
     $.post(url,data,function (result) {
         if (result.code == 0) {
             layer.msg(result.msg,{icon:5,time:2000});

@@ -66,9 +66,11 @@ onclick='app_status(this)'><span class='label label-danger radius'>待审</span>
  */
 function show($status,$message,$data=[],$httpcode=200){
     $data = [
-        'status'=>$status,
-        'message'=>$message,
-        'data'=>$data,
+        'status'=>[
+            'code'=>$status,
+            'msg'=>$message,
+        ],
+        'result'=>$data,
     ];
     return json($data,$httpcode);
 }
