@@ -12,7 +12,7 @@ function rmhapp_save(form) {
     // 调试
     url = $(form).attr('url');
     $.post(url,data,function (result) {
-        if (result.code == 0) {
+            if (result.code == 0) {
             layer.msg(result.msg,{icon:5,time:2000});
         }else if (result.code == 1){
             layer.msg(result.msg,{icon:1,time:2000});

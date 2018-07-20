@@ -21,7 +21,7 @@ return [
     // 用户名
     'username'        => 'root',
     // 密码
-    'password'        => 'root',
+    'password'        => '123',
     // 端口
     'hostport'        => '8889',
     // 连接dsn

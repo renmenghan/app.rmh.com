@@ -16,9 +16,10 @@ class Upload {
     /**
      * 图片上传
      */
-    public static function image(){
+    public static function image($defultName = null)
+    {
 //        var_dump($_FILES['file']);
-        if(empty($_FILES['file']['tmp_name'])) {
+        if (empty($_FILES['file']['tmp_name'])) {
             exception('您提交的图片数据不合法', 404);
         }
         /// 要上传的文件的
@@ -32,13 +33,18 @@ class Upload {
 
         $config = config('qiniu');
         // 构建一个鉴权对象
-        $auth  = new Auth($config['ak'], $config['sk']);
+        $auth = new Auth($config['ak'], $config['sk']);
         //生成上传的token
         $token = $auth->uploadToken($config['bucket']);
 //        echo $token;exit();
 //        var_dump(1111);
         // 上传到七牛后保存的文件名
-        $key  = date('Y')."/".date('m')."/".substr(md5($file), 0, 5).date('YmdHis').rand(0, 9999).'.'.$ext;
+        $key = '';
+        if ($defultName) {
+            $key = $defultName;
+        } else {
+           $key = date('Y') . "/" . date('m') . "/" . substr(md5($file), 0, 5) . date('YmdHis') . rand(0, 9999) . '.' . $ext;
+        }
         //初始UploadManager类
         $uploadMgr = new UploadManager();
         list($ret, $err) = $uploadMgr->putFile($token, $key, $file);
