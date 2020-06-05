@@ -7,7 +7,7 @@
  */
 
 return [
-    'accessKey' => 'LTAIgwkT6xhg64IB',
+    'accessKey' => '',
     'accessKeySecret' => 'LoC4GMz84tUfWk4RRDOqpjvW6uLyqH',
     'templateCode' => 'SMS_126265130',
     'signName' => 'rmhapp522任',
